@@ -8,5 +8,7 @@ One of the following values :
 | Second Class   | Orders are shipped via Second Class with Courier ` |
 | Standard Class | Orders are shipped via Standard Class with Courier |
 | Same Day       | Orders are personally shipped via Globalmart Team  |
+| Unknown        |Shipping is Unknown                                 |
+
 
 {% enddocs %}
