@@ -20,5 +20,6 @@ models:
                 - 'Same Day'
                 - 'Second Class'
                 - 'Standard Class'
+                - 'Unknown'
 
  
